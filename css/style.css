@@ -524,13 +524,13 @@ body {
   background-image: linear-gradient(to right bottom, #44b2e6, #05044d), url(../img/chattt.jpg);
 }
 .card__picture--4 {
-  background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/music.jpg);
+  background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/snake.jpg);
 }
 .card__picture--5 {
-  background-image: linear-gradient(to right bottom, #44b2e6, #05044d), url(../img/trading.png);
+  background-image: linear-gradient(to right bottom, #44b2e6, #05044d), url(../img/space.jpeg);
 }
 .card__picture--6 {
-  background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/beach.jpg);
+  background-image: linear-gradient(to right bottom, #838383, #2e2e2e), url(../img/pong.jpg);
 }
 .card__picture--7 {
   background-image: linear-gradient(to right bottom, #396b2a, #1b2e21), url(../img/covid.png);
